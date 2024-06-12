@@ -1,0 +1,20 @@
+h2 {
+    size: 20px;
+    color: deeppink;
+    text-decoration: dotted;
+}
+
+.lista {
+    width: 200px;
+    padding: 25px;
+    margin: 25px;
+    background-color: blueviolet;
+    list-style: none;
+}
+
+.elemento {
+    background-color: darkorange;
+    padding: 25px;
+    margin: 25px;
+    border: 2px solid red;
+}

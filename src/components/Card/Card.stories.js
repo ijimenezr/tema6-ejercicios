@@ -1,7 +1,7 @@
 import Card from './Card';
 
 export default {
-    title: 'Card',
+    title: 'Componentes/Card',
     component: Card,
     parameters: {
         layout: 'centered',
